@@ -1,0 +1,42 @@
+
+
+-----------------------------------------------------
+INSTALL INSTRUCTIONS for WINDOWS 10 
+CONTACT MANAGEMENT APPLICATION v1 64-Bit
+-----------------------------------------------------
+
+EASY DIRECTIONS to download and install the 
+new WINDOWS 10 Contact Management Application.
+
+https://tinyurl.com/CONTACT-MANAGEMENT-EXPERT
+
+Here are the STEPS:
+
+1. Click on the LINK to see my Google Drive 
+with the INSTALLER FILE in there.
+
+2. Download the INSTALLER FILE from my Google Drive - 
+Be Patient because the 8 Mb File takes about 15 seconds to download.
+
+3. Go to your DOWNLOAD Folder on your PC and COPY this 
+file to whatever Folder you want -- create a Folder 
+and PASTE the INSTALLER File in the new Folder.
+
+4. Next, (Important) Create a Folder where you 
+have WRITE Permission. This is usually on the C Drive 
+at C:\MY_NEW_FOLDER_NAME\ (Create Folder Name Yourself)
+
+5. Go back to the Folder where you SAVED the INSTALLER FILE 
+(that we copied from DOWNLOADS, and Double Click on the Installer.
+
+6. When the INSTALLER asks you to Select the Insallation Path, 
+Select the Path of the NEW FOLDER you just created 
+C:\MY_NEW_FOLDER_NAME\ then click OK and wait for 
+the Installer to INSTALL the Contact Manager App.
+
+7. Locate the File: contact_management_python.exe 
+and double click it to see it run OK. Then go back 
+and RIGHT CLICK on that same file contact_management_python.exe 
+and select PIN TO START MENU. (You can also create a shortcut 
+for contact_management_python.exe and place the shortcut on your desktop.
+
