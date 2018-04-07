@@ -13,7 +13,7 @@ REM Printing scripts Working Directory:
 REM 
 cd
 REM 
-REM Changing Working Directory .....................
+REM Changing Working Directory ..................... 
 REM 
 cd C:\Users\HP\WORK_MODELSIM\project_one\sim\
 REM 
@@ -29,7 +29,9 @@ vlog -sv C:\Users\HP\WORK_MODELSIM\project_one\sim\tb\sva_wrapper_module.sv
 REM 
 REM 
 vcom C:\Users\HP\WORK_MODELSIM\project_one\hdl\vhdl\vhdl_dut.vhd
-vcom C:\Users\HP\WORK_MODELSIM\project_one\sim\tb\vhdl_dut_tb.vhd
+REM 
+REM We have removed the VHDL Testbench and letting SystemVerilog control everything.
+REM   vcom C:\Users\HP\WORK_MODELSIM\project_one\sim\tb\vhdl_dut_tb.vhd
 REM 
 @ECHO ON
 REM 
