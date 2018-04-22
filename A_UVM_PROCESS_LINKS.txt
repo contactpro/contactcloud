@@ -1,5 +1,5 @@
 
-UVM Strategy 
+The UVM Strategy 
 
 Best UVM Approaches (12 Classes , 28 Methods, 7 Macros) 
 for Generic UVM Testbench - see #3 - 
